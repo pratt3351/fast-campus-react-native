@@ -5,5 +5,13 @@
     <mapping directory="$PROJECT_DIR$/part3/chapter1-clip3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter5/clip1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter5/clip2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter5/clip3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter6/clip3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter6/clip6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter6/clip7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter6/clip8" vcs="Git" />
   </component>
 </project>
