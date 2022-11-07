@@ -13,5 +13,11 @@
     <mapping directory="$PROJECT_DIR$/part3/chapter6/clip6" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter6/clip7" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter6/clip8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter7/clip1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter7/clip2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter7/clip3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter7/clip4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter7/clip5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter7/lotto-number" vcs="Git" />
   </component>
 </project>
