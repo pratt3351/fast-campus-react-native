@@ -2,12 +2,34 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/part3/chapter1-clip3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter10/clip1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter10/clip2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter10/clip3" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/part3/chapter10/news-scrapper" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/part3/chapter11/firebase-integration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter11/clip3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter11/clip4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter11/clip5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter12/clip1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter12/clip2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter12/clip3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter12/clip4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter12/clip5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter12/clip6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter12/clip7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter13/clip2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter13/clip3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter14/clip1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter14/clip2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter14/clip3,4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter14/clip5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter14/clip6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter14/clip7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter14/clip8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter15/clip2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter15/clip3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter15/clip4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter16/clip1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter16/clip3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/part3/chapter17/clip1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter4" vcs="Git" />
@@ -23,7 +45,6 @@
     <mapping directory="$PROJECT_DIR$/part3/chapter7/clip3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter7/clip4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter7/clip5" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/part3/chapter7/lotto-number" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter8/clip3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter9/clip1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/part3/chapter9/clip2" vcs="Git" />
