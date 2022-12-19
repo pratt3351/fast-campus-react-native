@@ -51,7 +51,11 @@ export const MainScreen: React.FC = () => {
     console.log('useEffect');
     // SQLiteDatabase.
     SQLite.openDatabase(
-      {name: 'test.db', location: 'default'},
+    {
+        name: 'account.db',
+        createFromLocation: '~www/account_db.db',
+        location: 'default',
+    },
       () => {
         console.log('openDataBase Success');
       },
