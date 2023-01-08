@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HistoryListView Render Test HistoryListView Render Snapshot Test 1`] = `
+<RCTScrollView
+  data={
+    [
+      {
+        "photoUrl": "test",
+      },
+    ]
+  }
+  getItem={[Function]}
+  getItemCount={[Function]}
+  keyExtractor={[Function]}
+  onContentSizeChange={[Function]}
+  onLayout={[Function]}
+  onMomentumScrollBegin={[Function]}
+  onMomentumScrollEnd={[Function]}
+  onScroll={[Function]}
+  onScrollBeginDrag={[Function]}
+  onScrollEndDrag={[Function]}
+  removeClippedSubviews={false}
+  renderItem={[Function]}
+  scrollEventThrottle={50}
+  stickyHeaderIndices={[]}
+  viewabilityConfigCallbackPairs={[]}
+>
+  <View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          hitSlop={
+            {
+              "bottom": 0,
+              "left": 0,
+              "right": 0,
+              "top": 0,
+            }
+          }
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "backgroundColor": undefined,
+              "paddingHorizontal": undefined,
+              "paddingVertical": undefined,
+            }
+          }
+          testID="Button0"
+        >
+          <Image
+            source={
+              {
+                "uri": "test",
+              }
+            }
+            style={
+              [
+                undefined,
+                {
+                  "height": 375,
+                  "width": 375,
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DogPhotoView Render Test DogPhotoView Render Test 1`] = `
+<Image
+  source={
+    {
+      "uri": "TEST_MESSAGE",
+    }
+  }
+  style={
+    [
+      undefined,
+      {
+        "height": 100,
+        "width": 100,
+      },
+    ]
+  }
+  testID="image"
+/>
+`;

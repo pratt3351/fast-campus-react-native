@@ -65,38 +65,6 @@ export const MainScreen: React.FC = () => {
     };
   });
 
-  // const gestureHandler = useAnimatedGestureHandler({
-  //   onStart: () => {
-  //     isPressed.value = true;
-  //   },
-  //   onActive: e => {
-  //     console.log('onUpdate');
-  //     offset.value = {
-  //       x: e.translationX + start.value.x,
-  //       y: offset.value.y,
-  //     };
-  //   },
-  //   onEnd: () => {
-  //     if (offset.value.x < -150) {
-  //       //왼쪽으로 넘어감
-  //       // runOnJS(onSwipeLeft)();
-  //       // onSwipeLeft();
-  //     }
-
-  //     if (offset.value.x > 150) {
-  //       //오른쪽으로 넘어감
-  //       // runOnJS(onSwipeLeft)();
-  //     }
-
-  //     offset.value = {
-  //       x: 0,
-  //       y: 0,
-  //     };
-
-  //     isPressed.value = false;
-  //   },
-  // });
-
   const gesture = Gesture.Pan()
     .runOnJS(true)
     .onBegin(() => {
