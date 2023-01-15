@@ -1,0 +1,36 @@
+{
+  "cli": {
+    "version": ">= 2.7.1"
+  },
+  "build": {
+    "development": {
+      "distribution": "internal",
+      "channel":"preview",
+      "android": {
+        "gradleCommand": ":app:assembleDebug"
+      },
+      "ios": {
+        "buildConfiguration": "Debug"
+      },
+      "env":{
+        "APP_VARIANT":"development"
+      }
+    },
+    "preview": {
+      "distribution": "internal",
+      "channel":"preview",
+      "env":{
+        "APP_VARIANT":"development"
+      }
+    },
+    "production": {
+      "channel":"production",
+      "env":{
+        "APP_VARIANT":"production"
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
