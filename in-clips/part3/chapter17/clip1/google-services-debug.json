@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525017480359",
+    "firebase_url": "https://anstagram-dev-default-rtdb.firebaseio.com",
+    "project_id": "anstagram-dev",
+    "storage_bucket": "anstagram-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525017480359:android:9ce10688d01fa6b170ef82",
+        "android_client_info": {
+          "package_name": "com.anstagram.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525017480359-lhfpbqjffe83eajropkfkssbu51r7eul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmf_J8IAJ2cNrdxuEMN74-eVWA3kqAANw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525017480359-lhfpbqjffe83eajropkfkssbu51r7eul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525017480359-8lniomuqv2qfq5jng6b7ns9uta04b7sr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anstagram.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>525017480359-8lniomuqv2qfq5jng6b7ns9uta04b7sr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.525017480359-8lniomuqv2qfq5jng6b7ns9uta04b7sr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA3KLyoCk9MGwLPXEhwln3OpbKbhcNr1xk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>525017480359</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.anstagram.dev</string>
+	<key>PROJECT_ID</key>
+	<string>anstagram-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anstagram-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:525017480359:ios:014f00bc031448ed70ef82</string>
+	<key>DATABASE_URL</key>
+	<string>https://anstagram-dev-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-5096458491889388015-227",
+  "private_key_id": "000291af14e79cabec1a981e4f2a147a0320f577",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCv2OMYqOwYj5sa\niCYfeSvz3pdZc2/LWUU2UyQMzK4TKC3yvjdYZFRkRadiVW/1zgmmpZLo2vq1kxQO\nrXqNWvVcJTdgImpjoWZSxc7Z61BhillZnVXQc1XU3+6ZmcLM+gdCwwLzVMNB3UkB\n4AWAm4gT/yQs6bpGp1EJwdRfUxw0pf9w0AhVuHIpOvgXqfkYHUFRuHX7bdZ3Jfat\njOfd3EAvFz6E9szeJ1zv7iq/p1vrYy5LWjyf9WklLqrMRADMHwivFUz3n0O7S6fd\n+OGfAPOQUkpYy0wp34t017KP3g2Ih90AyLbeYsotaiBcASXC3IXnu0WZXawyewj/\n086GV9xHAgMBAAECggEARGIlvltCpTKDcMfte2PV0dqIJQMdQIkQv1WJuWiHcW+4\nnqOWRkuN/giQVU9AYOilHCdbgC5YPPBbZnHULNBohlL6u+nmUaRcdGf0Tw6Rjb0N\njin/Szbu8/+5fAYtmSTKWg4YQaR+4kg5sf76ZM8XFh+sY8Lo67z5aL/15LQfTeFy\nu7UdhoxzlSOLCBIRaulKHbpB5EG1w8/J/gp916t+w2aMR1vd6cdWRt3vqilrA4dG\n7e1GnlRA3lMtZMd1xy8VyURke0o0bvfTQWZD74ysBfJIVtc2JUd/5WYRPjQxBvgM\n5unxxW9sD9YT0+AZgGGiXJ/FBOXIPhqX/NC3xu0qcQKBgQDfj4dq27qqs+kah4JW\n2KknJvC6ICUEMMW3Kxcv0ihfoXKBaU71SiuVTggGsJ86s6uWgjSFXnMRZV9wiHkk\nfnmgnpWDHrv1v8E5fXkNIIpbm6Iflvx87si81p2tqb8SBOXkDZs/5AMvFBEZjLDC\nv/bnVvnNzN2bEB0ZMSAKyN1ktQKBgQDJXPnaIUbIbTuGN893Xft+rz8RrHCZKlXn\na0WQzzMo3cmLuqRk3uy7dMainw/z7S6tuz5MxABkYTUvN07sTuIL/axuBX/swgWj\nOFNCGpzO2qYuABHRamdA6wdta/FOiEM2NoyU23bBA+kxI4eec4HOt6ClNuLQtV+L\nASPHCdQ2iwKBgQCeAsNS2sU/+/NJJfgQzAgavSIuW6PuJ07HnPRBf4e7t8/H+het\ntWPCnql7mQCiK/WeZp8amNw5sm3Xiw4cpivvQ8cnKuTs2ECJEs8pYROJliHrs/r3\njophNkuyQCTlZoLaQme1q8I4VzWS2mbg729iqY3cUO1cuPHoKVmdZcVddQKBgQCv\nZoThhEEDD1tdU7otcTlEJeUbQQkn8h+4ININDN+0hlUsmNzgXOr7cwIf38xmn0Ec\n5lCjT8xDpAVO5q+h2ii/Zy3O/I1tL6j3f3XOzB2xdfZxdXAP6c6dVt02bGNbFAjv\n7V5RwEXWZdC4FAnrdRQqe/u8Tm4OfR8Hl2uR0jb/dwKBgBqul2jOJtlFUIB+O82f\nkHfZyq89C2wD9GhB+eqUwxQTs8HEy9xme2Mmw7NqsESvPa4HHvUXBNyB1Ij8r+BI\nY3H3671sGNGRP1xcBcpCyU8fUoZTOqcfHb9BM2aDis7sBuKk+GvFP3eevinQUYE+\nirqXCQreHBC8KBZKjh7C+dAL\n-----END PRIVATE KEY-----\n",
+  "client_email": "anstagram-service-api@pc-api-5096458491889388015-227.iam.gserviceaccount.com",
+  "client_id": "100912022235770680863",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anstagram-service-api%40pc-api-5096458491889388015-227.iam.gserviceaccount.com"
+}
